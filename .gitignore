@@ -1,0 +1,6 @@
+work_dirs/**
+csv_submission/
+*.pkl
+__pycache__/
+pretrained_dir/**
+*.DS_Store
