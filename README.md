@@ -1,4 +1,4 @@
-# SOTA classifcation pipeline with Transformer
+# SOTA multi-label classifcation pipeline with Transformer backbone and Transformer head
 The official SOTA classifcation pipeline of our project
 
 ## Requirements 
