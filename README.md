@@ -10,6 +10,7 @@ The official SOTA classifcation pipeline of our project
 Please install pretrained backbone (.pth file) and put it under /pretrained_dir if you want to use pretrained backbone for your project. Support backbone:
 * [Swin Transformer large_patch4_window12_384](https://github.com/SwinTransformer/storage/releases/download/v1.0.0/swin_large_patch4_window12_384_22k.pth)
 ## Quick start
+#### Data support: 3D OCT biomarkers from OLIVES, Chest X ray images frorm MIMIC-CXR, Out of Distribution data from OOD-CV 2023 competition 
 
 ### Training
 
